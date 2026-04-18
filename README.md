@@ -1,6 +1,6 @@
 # Piggy-Latin-Translator 🐷
 
-A robust, edge-case-sensitive Pig Latin translator designed to solve the common syntax errors and rule-breaking found in standard implementations.
+An up-to-date Pig Latin translator designed to solve the common syntax errors and rule-breaking found in the previous implementations.
 
 ## Purpose
 While many Pig Latin translators exist, they often fail at complex linguistic nuances. This project focuses on **accuracy** and **preservation**, ensuring that the rules of the language game are followed without breaking the visual structure of the original text.
